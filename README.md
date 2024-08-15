@@ -7,7 +7,7 @@
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo web con Angular y .NET Core.
 - 🌱 Estoy aprendiendo constantemente para mantenerme al día con las últimas tecnologías y mejores prácticas en el desarrollo de software.
 - 💬 Puedes preguntarme sobre desarrollo web, Angular, .NET Core o cualquier cosa relacionada con tecnología.
-- 📝 Mi portafolio Web: [Portafolio](https://revelational-conn.000webhostapp.com/index.html)
+- 📝 Mi portafolio Web: [Portafolio](https://jonathanpb-dev52.github.io/)
 - 📫 Puedes contactarme a través de mi correo electrónico: Jonathanpatinobeltran@gmail.com.
 - ⚡ Dato curioso: ¡Me encanta aprender sobre nuevas tecnologias!
 
